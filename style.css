@@ -1,0 +1,87 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f5f1de;
+}
+
+/* hero text */
+.h1 {
+    font-size: 3rem;
+    padding: 0.5em;
+
+    display: flex;
+    justify-content: center;
+    color: #551d80;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+
+}
+
+.user-choice {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 1em;
+}
+
+.display-game {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    background-color: #f9c3ce;
+    font-size: 1.5rem;
+    padding: 20px;
+}
+
+.win-lose {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+
+    background-color: #f9c3ce;
+    font-size: 1.5rem;
+    padding: 20px;
+}
+
+.score { 
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+    font-size: 1.5rem;
+
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    background-color: #cadff2;
+    padding: 20px;
+}
+
+
+.btn-play {
+    font-size: 2rem;
+    text-transform: uppercase;
+    font-weight: 700;
+    border-radius: 20rem;
+    background-color: #FFD700;
+    padding: 0.5rem 1rem;
+    letter-spacing: 3px;
+}
+
+
+
+.btn {
+    font-size: 2rem;
+    text-transform: uppercase;
+    font-weight: 700;
+    border-radius: 20rem;
+    background-color: #FFD700;
+    padding: 0.5rem 1rem;
+    letter-spacing: 3px;
+}
