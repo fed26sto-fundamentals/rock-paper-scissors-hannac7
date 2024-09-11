@@ -4,7 +4,6 @@ body {
     background-color: #f5f1de;
 }
 
-/* hero text */
 .h1 {
     font-size: 3rem;
     padding: 0.5em;
@@ -68,7 +67,7 @@ body {
     font-size: 2rem;
     text-transform: uppercase;
     font-weight: 700;
-    border-radius: 20rem;
+    border-radius: 30%;
     background-color: #FFD700;
     padding: 0.5rem 1rem;
     letter-spacing: 3px;
@@ -77,9 +76,9 @@ body {
 
 
 .btn {
-    font-size: 2rem;
+    font-size: 3rem;
     text-transform: uppercase;
-    font-weight: 700;
+    font-weight: 800;
     border-radius: 20rem;
     background-color: #FFD700;
     padding: 0.5rem 1rem;
